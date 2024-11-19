@@ -1,0 +1,30 @@
+Hier ist eine Vorlage mit 4 einzelnen Dreiecksdiagrammen in die man die Daten plotten kann.
+
+                    1. Diagramm
+                    2. Diagramm
+
+
+            3. Diagramm     4. Diagramm
+
+1. Diagramm:
+bottom-right
+hco3 %
+Na+K %
+
+2. Diagramm (gedreht)
+bottom-right
+SO4+Cl %
+Ca+Mg %
+
+3. Diagramm
+bottom-left
+Ca %
+Mg %
+
+4. Diagramm
+bottom-right
+Cl %
+SO4 %
+
+Verwendet wurden die Daten von:
+ignasi-p/piper-diagrams
